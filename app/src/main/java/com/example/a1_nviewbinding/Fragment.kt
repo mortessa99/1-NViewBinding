@@ -18,7 +18,7 @@ class Fragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        binding.myText.text = "Hello"
+        binding.myText.text = "Hello "
     }
 
 
